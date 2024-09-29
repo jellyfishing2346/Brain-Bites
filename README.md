@@ -1,8 +1,30 @@
-# React + Vite
+# Brain Bite: Interactive Flashcard Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description
+    Diverse Topics: Explore flashcards covering General Knowledge, Science & Nature, History, Sports, Music, Mathematics, Geography, Books, Computer Science, and      Art.
+    Interactive Learning: Enjoy a user-friendly interface that makes learning intuitive and engaging.
+    Customizable Flashcards: Create, edit, and personalize your own flashcards to tailor your learning experience.
+    Progress Tracking: Monitor your learning journey and track your improvement over time.
+    Gamified Experience: Challenge yourself with quizzes and games to reinforce your knowledge and keep learning fun!
+# Category Topics
+    General Knowledge
+    Science & Nature
+    History
+    Sports
+    Music
+    Mathematics
+    Geography
+    Books
+    Computer Science
+    Art
 
-Currently, two official plugins are available:
+# Technologies
+      HTML5
+      CSS3
+      Javascript
+      React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Video
+  Link: https://www.loom.com/share/f9dc7ba47e9d474b86110dc8c81390be?sid=b0b72522-6b5e-4937-b287-26695bdc3fe9
+
+Copyright 2024 Faizan Khan All rights reserved.
