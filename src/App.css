@@ -1,7 +1,7 @@
 .card-set {
   max-width: 800px;
   margin: 0 auto;
-  padding: 500px;
+  padding: 50px;
   font-family: Arial, sans-serif;
 }
 
@@ -17,6 +17,7 @@
 .header h1 {
   margin-right: 10px;
   color: black;
+  margin-bottom: 0; 
 }
 
 .logo {
@@ -116,4 +117,17 @@
   height: 100px;
   object-fit: cover;
   border-radius: 8px;
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+  position: relative;
+}
+
+
+.general-description {
+  font-size: 1.1em;
+  color: #333;
+  margin-bottom: 0; 
 }
