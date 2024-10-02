@@ -70,7 +70,11 @@ const CardSet = () => {
   return (
     <div className="card-set">
       <div className="header" style={getCategoryStyle()}>
-        <h1>Brain Bites</h1>
+    	<div>
+    		<h1>Brain Bites</h1>
+			<p className="general-description">Test your trivia kndowledge across various categories!</p>
+		</div>
+        
         <img src="./src/brain.jpg" alt="A detailed illustration of the human brain" className="logo" />
       </div>
       <div className="category-selector">
@@ -79,6 +83,7 @@ const CardSet = () => {
           value={selectedCategory}
         >
           <option value="">Select a category</option>
+          <h4>Test your trivia, in numerous categories</h4>
           {categories.map(category => (
             <option key={category.id} value={category.id}>{category.name}</option>
           ))}
@@ -109,6 +114,7 @@ const CardSet = () => {
         </div>
       )}
     </div>
+    
   );
 };
 
