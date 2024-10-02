@@ -72,7 +72,7 @@ const CardSet = () => {
       <div className="header" style={getCategoryStyle()}>
     	<div>
     		<h1>Brain Bites</h1>
-			<p className="general-description">Test your trivia kndowledge across various categories!</p>
+			  <p className="general-description">10 cards for each category to test your trivia</p>
 		</div>
         
         <img src="./src/brain.jpg" alt="A detailed illustration of the human brain" className="logo" />
